@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stormly</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="sun_rise_and_set">Sun rise and set</string>
+    <string name="Sunrise">Sunrise</string>
+    <string name="Sunset">Sunset</string>
+    <string name="background_image">Background Image</string>
+</resources>
